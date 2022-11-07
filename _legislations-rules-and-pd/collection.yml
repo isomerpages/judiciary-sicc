@@ -2,6 +2,7 @@ collections:
   legislations-rules-and-pd:
     output: true
     order:
+      - SICC User Guides.md
       - SICC Practice Directions.md
       - Procedural Rules.md
       - Supreme Court of Judicature Act.md
