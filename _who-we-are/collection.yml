@@ -2,9 +2,9 @@ collections:
   who-we-are:
     output: true
     order:
-      - Judges/Justice Judith Prakash, Justice of the Court of Appeal.md
-      - Judges/Justice Andrew Phang Boon Leong, Justice of the Court of Appeal.md
-      - Judges/Chief Justice Sundaresh Menon.md
       - Judges/.keep
+      - Judges/Chief Justice Sundaresh Menon.md
+      - Judges/Justice Andrew Phang Boon Leong, Justice of the Court of Appeal.md
+      - Judges/Justice Judith Prakash, Justice of the Court of Appeal.md
       - Establishment of the SICC.md
       - Overview of SICC.md
