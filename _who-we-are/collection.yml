@@ -2,5 +2,6 @@ collections:
   who-we-are:
     output: true
     order:
+      - Judges.md
       - Establishment of the SICC.md
       - Overview of SICC.md
