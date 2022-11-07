@@ -2,6 +2,7 @@ collections:
   who-we-are:
     output: true
     order:
+      - Judges/Chief Justice Sundaresh Menon.md
       - Judges/Judges.md
       - Judges/.keep
       - Establishment of the SICC.md
