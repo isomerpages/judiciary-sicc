@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - Judges/.keep
-      - Judges.md
       - Establishment of the SICC.md
       - Overview of SICC.md
