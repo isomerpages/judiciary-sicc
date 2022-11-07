@@ -2,6 +2,7 @@ collections:
   legislations-rules-and-pd:
     output: true
     order:
+      - SICC Rules 2021.md
       - SICC Procedural Guide.md
       - SICC User Guides.md
       - SICC Practice Directions.md
