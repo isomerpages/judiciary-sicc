@@ -1,4 +1,5 @@
 collections:
   legislations-rules-and-pd:
     output: true
-    order: []
+    order:
+      - Supreme Court of Judicature Act.md
