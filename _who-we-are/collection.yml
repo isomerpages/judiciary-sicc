@@ -2,5 +2,5 @@ collections:
   who-we-are:
     output: true
     order:
-      - Overview of SICC.md
       - Establishment of the SICC.md
+      - Overview of SICC.md
