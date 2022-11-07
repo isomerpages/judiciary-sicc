@@ -2,4 +2,5 @@ collections:
   legislations-rules-and-pd:
     output: true
     order:
+      - Procedural Rules.md
       - Supreme Court of Judicature Act.md
