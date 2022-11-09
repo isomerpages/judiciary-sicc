@@ -8,11 +8,11 @@ links:
     collection: forms-and-services
   - title: Hearings & Judgments
     collection: hearings-and-judgments
-  - title: Contact Us
-    url: /contact-us/
   - title: Guide to the SICC
     collection: guide-to-the-sicc
   - title: Registration of Foreign Lawyer
     collection: registration-of-foreignlawyers
   - title: Media
     collection: media
+  - title: Contact Us
+    url: /contact-us/
