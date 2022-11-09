@@ -151,8 +151,8 @@ Multi-format disc player (which allows the playback of DVD-Audio, DVD-Video, DVD
 Visualiser
 The Registrar may refuse any request for the use of any of the Technology Facilities at any time owing to the unavailability of staff or equipment or for any other reason. The Registrar need not give any reasons for the refusal of such a request.
 
-Click here to download the application form to request the use of technology facilities during trials or hearings.
+Click [here]() to download the application form to request the use of technology facilities during trials or hearings.
 
-Click here for more information on how to apply for the use of technology facilities.
+Click [here](https://www.judiciary.gov.sg/services/mobile-infocomm-technology-video-conferencing-facilities) for more information on how to apply for the use of technology facilities.
 
 Please also refer to Note 6 of the [SICC User Guides](https://www.sicc.gov.sg/legislation-rules-pd/user-guides) for more information on remote hearings.
