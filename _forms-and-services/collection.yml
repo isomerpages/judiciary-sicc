@@ -2,6 +2,7 @@ collections:
   forms-and-services:
     output: true
     order:
+      - Fees and Charges.md
       - Case File Inspection.md
       - Electronic Filing Service.md
       - Interpretation Services.md
