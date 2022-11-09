@@ -1,8 +1,8 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
   - title: Who We Are
     collection: who-we-are
+  - title: Contact Us
+    url: /contact-us/
+  - title: Legislations, Rules & PD
+    collection: legislations-rules-and-pd
