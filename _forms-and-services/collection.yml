@@ -2,6 +2,7 @@ collections:
   forms-and-services:
     output: true
     order:
+      - Translation Services.md
       - Use of Technology at the SICC.md
       - Avenues for Filing.md
       - List of Commonly Used Forms.md
