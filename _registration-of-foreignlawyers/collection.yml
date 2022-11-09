@@ -1,4 +1,5 @@
 collections:
   registration-of-foreignlawyers:
     output: true
-    order: []
+    order:
+      - Registration of Foreign Lawyers before the SICC.md
