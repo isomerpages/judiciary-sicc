@@ -2,6 +2,7 @@ collections:
   guide-to-the-sicc:
     output: true
     order:
+      - Glossary of Legal Terms.md
       - References of Questions of Law.md
       - Enforcement of SICC judgments and orders.md
       - Enforcement of Money Judgments.md
