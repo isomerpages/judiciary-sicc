@@ -2,6 +2,7 @@ collections:
   guide-to-the-sicc:
     output: true
     order:
+      - SICC Judicial Code of Conduct.md
       - Representation by Foreign Lawyers.md
       - Communications with the SICC Registry.md
       - Model Clause.md
