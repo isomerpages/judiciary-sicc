@@ -2,14 +2,14 @@ collections:
   guide-to-the-sicc:
     output: true
     order:
-      - Glossary of Legal Terms.md
-      - References of Questions of Law.md
-      - Enforcement of SICC judgments and orders.md
-      - Enforcement of Money Judgments.md
-      - Code of Ethics.md
-      - SICC Judicial Code of Conduct.md
-      - Representation by Foreign Lawyers.md
-      - Communications with the SICC Registry.md
-      - Model Clause.md
-      - The Technology, Infrastructure and Construction List.md
       - SICC Proceedings in General.md
+      - The Technology, Infrastructure and Construction List.md
+      - Model Clause.md
+      - Communications with the SICC Registry.md
+      - Representation by Foreign Lawyers.md
+      - SICC Judicial Code of Conduct.md
+      - Code of Ethics.md
+      - Enforcement of Money Judgments.md
+      - Enforcement of SICC judgments and orders.md
+      - References of Questions of Law.md
+      - Glossary of Legal Terms.md
