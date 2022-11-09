@@ -19,6 +19,7 @@ Further, all requests:
 
 should be captioned with the number of the cause or matter to which they relate and the names of the parties. If the request or correspondence relates to an interlocutory application, the number of that interlocutory application should be stated in the caption below the parties’ names; and
 are to be copied to all other parties to the cause or matter or to their counsel unless there are good reasons for not so doing. Counsel are further reminded that the Court should not be copied on correspondence between parties or their counsel. The SICC Registry has the discretion to reject or decline to act on any inappropriate or without notice correspondence.
+
 Click here for more information on how you may contact the SICC Registry.
 
 Click here to access the commonly used forms for proceedings in the SICC.
