@@ -2,5 +2,6 @@ collections:
   forms-and-services:
     output: true
     order:
+      - Use of Technology at the SICC.md
       - Avenues for Filing.md
       - List of Commonly Used Forms.md
