@@ -2,5 +2,6 @@ collections:
   guide-to-the-sicc:
     output: true
     order:
+      - Model Clause.md
       - The Technology, Infrastructure and Construction List.md
       - SICC Proceedings in General.md
