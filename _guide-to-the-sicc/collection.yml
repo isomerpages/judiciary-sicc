@@ -2,6 +2,7 @@ collections:
   guide-to-the-sicc:
     output: true
     order:
+      - Enforcement of Money Judgments.md
       - Code of Ethics.md
       - SICC Judicial Code of Conduct.md
       - Representation by Foreign Lawyers.md
