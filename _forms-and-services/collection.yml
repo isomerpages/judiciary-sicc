@@ -1,0 +1,4 @@
+collections:
+  forms-and-services:
+    output: true
+    order: []
