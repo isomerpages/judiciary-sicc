@@ -1,0 +1,4 @@
+collections:
+  hearings-and-judgments:
+    output: true
+    order: []
