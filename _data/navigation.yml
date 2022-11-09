@@ -2,7 +2,7 @@ logo: /images/isomer-logo.svg
 links:
   - title: Who We Are
     collection: who-we-are
-  - title: Contact Us
-    url: /contact-us/
   - title: Legislations, Rules & PD
     collection: legislations-rules-and-pd
+  - title: Contact Us
+    url: /contact-us/
