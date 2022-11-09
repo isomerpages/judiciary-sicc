@@ -155,4 +155,4 @@ Click here to download the application form to request the use of technology fac
 
 Click here for more information on how to apply for the use of technology facilities.
 
-Please also refer to Note 6 of the SICC User Guides for more information on remote hearings.
+Please also refer to Note 6 of the [SICC User Guides](https://www.sicc.gov.sg/legislation-rules-pd/user-guides) for more information on remote hearings.
