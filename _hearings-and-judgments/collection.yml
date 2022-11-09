@@ -1,4 +1,5 @@
 collections:
   hearings-and-judgments:
     output: true
-    order: []
+    order:
+      - Hearing Lists.md
