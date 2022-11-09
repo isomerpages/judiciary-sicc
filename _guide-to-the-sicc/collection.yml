@@ -2,6 +2,7 @@ collections:
   guide-to-the-sicc:
     output: true
     order:
+      - Communications with the SICC Registry.md
       - Model Clause.md
       - The Technology, Infrastructure and Construction List.md
       - SICC Proceedings in General.md
