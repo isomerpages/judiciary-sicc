@@ -2,4 +2,5 @@ collections:
   hearings-and-judgments:
     output: true
     order:
+      - Judgments.md
       - Hearing Lists.md
