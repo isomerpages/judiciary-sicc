@@ -1,4 +1,5 @@
 collections:
   guide-to-the-sicc:
     output: true
-    order: []
+    order:
+      - SICC Proceedings in General.md
