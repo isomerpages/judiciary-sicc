@@ -15,13 +15,13 @@ sections:
       key_highlights:
         - title: The SICC
           description: Important highlight A is important
-          url: https://google.com
+          url: who-we-are/overview-of-sicc/
         - title: Our Services
           description: Important highlight B is equally important
-          url: https://gmail.com
+          url: /forms-and-services/
         - title: The Judges
           description: Page A is important too
-          url: /privacy/
+          url: /who-we-are/Judges/
   - infobar:
       title: Infobar title
       subtitle: Subtitle
