@@ -7,7 +7,7 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
   - hero:
-      title: Singapore International Commerical Court
+      title: Singapore International Commercial Court
       subtitle: A Prime Destination For International Commercial Dispute Resolution
       background: /images/hero-banner.png
       button: Contact Us
@@ -29,4 +29,3 @@ sections:
       button: Button text
       url: /faq/
 ---
-
