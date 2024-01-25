@@ -1,0 +1,6 @@
+collections:
+  media:
+    output: true
+    order:
+      - Speech and Articles.md
+      - Announcements & Press Releases.md

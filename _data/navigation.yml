@@ -1,0 +1,18 @@
+logo: /images/SICC Logo.png
+links:
+  - title: Who We Are
+    collection: who-we-are
+  - title: Legislations, Rules & PD
+    collection: legislations-rules-and-pd
+  - title: Forms and Services
+    collection: forms-and-services
+  - title: Hearings & Judgments
+    collection: hearings-and-judgments
+  - title: Guide to the SICC
+    collection: guide-to-the-sicc
+  - title: Registration of Foreign Lawyer
+    collection: registration-of-foreignlawyers
+  - title: Media
+    collection: media
+  - title: Contact Us
+    url: /contact-us/

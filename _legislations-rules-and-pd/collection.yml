@@ -1,0 +1,10 @@
+collections:
+  legislations-rules-and-pd:
+    output: true
+    order:
+      - Supreme Court of Judicature Act.md
+      - Procedural Rules.md
+      - SICC Practice Directions.md
+      - SICC User Guides.md
+      - SICC Procedural Guide.md
+      - SICC Rules 2021.md

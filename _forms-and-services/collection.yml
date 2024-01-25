@@ -1,0 +1,12 @@
+collections:
+  forms-and-services:
+    output: true
+    order:
+      - List of Commonly Used Forms.md
+      - Avenues for Filing.md
+      - Use of Technology at the SICC.md
+      - Translation Services.md
+      - Interpretation Services.md
+      - Electronic Filing Service.md
+      - Case File Inspection.md
+      - Fees and Charges.md

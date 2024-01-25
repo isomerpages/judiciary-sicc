@@ -1,0 +1,12 @@
+collections:
+  who-we-are:
+    output: true
+    order:
+      - Overview of SICC.md
+      - Establishment of the SICC.md
+      - Judges/.keep
+      - Judges/Chief Justice Sundaresh Menon.md
+      - Judges/Justice Andrew Phang Boon Leong, Justice of the Court of Appeal.md
+      - Judges/Justice Judith Prakash, Justice of the Court of Appeal.md
+      - Announcements.md
+      - Contact Us.md
